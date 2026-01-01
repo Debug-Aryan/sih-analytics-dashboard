@@ -12,7 +12,7 @@ and exploratory research**.
 ## 📊 Interactive Dashboard
 A live analytical dashboard built using Streamlit is available here:
 
-👉 **Dashboard Link:** <PASTE_YOUR_STREAMLIT_URL_HERE>
+👉 **Dashboard Link:** https://sih-analytics-dashboard.streamlit.app/
 
 The dashboard enables:
 - Interactive filtering by year, theme, institute, status, and geography
@@ -126,8 +126,8 @@ of the Smart India Hackathon program.
 ## 👤 Attribution
 Prepared and curated by **Aryan Prajapati** (2025)
 
-- GitHub: https://github.com/<your-username>
-- Dashboard: <PASTE_YOUR_STREAMLIT_URL_HERE>
+- GitHub: https://github.com/Debug-Aryan
+- Dashboard: https://sih-analytics-dashboard.streamlit.app/
 
 ---
 
