@@ -1,0 +1,43 @@
+# ---- Python bytecode / caches ----
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.pytype/
+.pyre/
+.ruff_cache/
+
+# ---- Virtual environments ----
+venv/
+.venv/
+ENV/
+env/
+
+# ---- Packaging / build ----
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ---- Jupyter / notebooks ----
+.ipynb_checkpoints/
+
+# ---- Streamlit ----
+.streamlit/secrets.toml
+
+# ---- Playwright (if installed locally into project) ----
+ms-playwright/
+
+# ---- Logs / local artifacts ----
+*.log
+
+# ---- OS files ----
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ---- IDE / editor ----
+.vscode/
+.idea/
+*.swp
