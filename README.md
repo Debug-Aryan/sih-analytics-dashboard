@@ -126,7 +126,7 @@ of the Smart India Hackathon program.
 ## 👤 Attribution
 Prepared and curated by **Aryan Prajapati** (2025)
 
-- GitHub: https://github.com/Debug-Aryan
+- Kaggle: https://www.kaggle.com/datasets/aryanprajapati33/smart-india-hackathon-2025-team-outcomes
 - Dashboard: https://sih-analytics-dashboard.streamlit.app/
 
 ---
